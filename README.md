@@ -1,2 +1,2 @@
 # zshFile
-my zsh file
+This is my zsh file
